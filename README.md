@@ -3,5 +3,5 @@ Advent of Code 2023 in Rust 🦀
 
 ## To run
 ```
-cargo run
+cargo test && cargo run
 ```
